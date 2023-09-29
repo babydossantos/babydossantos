@@ -1,0 +1,29 @@
+
+.banner { 
+ background:url("https://www.fundacaotelefonicavivo.org.br/wp-content/uploads/2020/04/Dia-Educa%C3%A7%C3%A3o-ODS4_V2_736x341.jpg");
+ height: 800px;
+ width:100vw;
+ color:white;
+ background-size:contain;
+ background-repeat: no-repeat;
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
+}
+
+button{
+    width:120px;
+    height:50px;
+    background:transparent;
+    color:red;
+    text-transform:uppercase;
+    border-color:black;
+    transition:2s ease-in-out;
+}
+
+button:hover{
+    background:pink;    
+    color:black;
+background:url("https://voluntariadoempresarial.com.br/wp-content/uploads/2020/02/17ODS-04-a.gif");
+}
